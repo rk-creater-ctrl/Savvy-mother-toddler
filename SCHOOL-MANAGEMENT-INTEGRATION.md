@@ -18,7 +18,7 @@ Example endpoint configuration:
 </script>
 ```
 
-Use a hosted form service, Google Apps Script web app, or your school management API as that endpoint. The endpoint must accept browser form submissions from `https://savvymotherschool.github.io/Savvy-Mother-Toddler/`.
+Use a hosted form service, Google Apps Script web app, or your school management API as that endpoint. The endpoint must accept browser form submissions from `https://toddlerlearner.com/`.
 
 ## Login Links
 
